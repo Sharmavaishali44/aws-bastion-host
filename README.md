@@ -50,21 +50,7 @@
 
 #### > Architecture diagram
 
-#### 
-
-#### <<<<<<<< HEAD:02-readme.md
-
-#### !\[Architecture](01-vpc\_architecture/01-vpc\_architecture.png)
-
-#### ========
-
-#### !\[Architecture](vpc-architecture/vpc-architecture.png)
-
-#### >>>>>>>> f061ffb (commit):readme.md.txt
-
-#### 
-
-#### \---
+ ![Architecture](vpc-architecture/vpc-architecture.png)
 
 #### 
 
