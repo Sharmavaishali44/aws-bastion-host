@@ -50,7 +50,7 @@
 
 #### > Architecture diagram
 
- ![Architecture](vpc-architecture/vpc-architecture.png)
+![Architecture](vpc-architecture.png)
 
 #### 
 
